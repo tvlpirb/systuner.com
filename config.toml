@@ -1,0 +1,62 @@
+baseURL = "https://systuner.com/"
+languageCode = "en-us"
+title = "Talhah Peerbhai"
+theme = "notrack"
+newContentEditor = "vim"
+mainSections = ["blog"]
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+  author = "Talhah Peerbhai"
+  siteHeading = "Talhah Peerbhai" # defaults to author
+  favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "My writing"
+  #footer = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+  [params.social]
+    github = "tvlpirb"
+    linkedin = "talhah-peerbhai"
+    email = "talhah@cmu.edu"
+    hackernews = "talhah"
+    #instagram = "example"
+    #mastodon = "example"
+    #medium = "example"
+    #keybase = "example"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
+
+[menu]
+[[menu.main]]
+  name = 'Resume'
+  url = 'https://systuner.com/resume.pdf'
+  weight = 3
+    [menu.main.params]
+    rel = 'external'
+
+
+
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$','^vim$','^nvim$','^emacs$','^emacsclient$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
