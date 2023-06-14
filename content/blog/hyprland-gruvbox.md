@@ -27,8 +27,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 cover:
-    image: "/images/hypr-gruv-3.png" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/images/hypr-gruv-3.webp" # image path/url
+    alt: "Taster Screenshot" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
@@ -38,10 +38,10 @@ Hey guys, this is my current WM setup. Here are the [dotfiles.](https://github.c
 
 
 ## The most beautiful thing on the planet
-![Screenshot 1](/images/hypr-gruv-1.png)
+![Screenshot 1](/images/hypr-gruv-1.webp)
 
-![Screenshot 2](/images/hypr-gruv-2.png)
+![Screenshot 2](/images/hypr-gruv-2.webp)
 
-![Screenshot 3](/images/hypr-gruv-3.png)
+![Screenshot 3](/images/hypr-gruv-3.webp)
 
 
