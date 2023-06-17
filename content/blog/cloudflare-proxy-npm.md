@@ -1,7 +1,7 @@
 ---
 title: "Nginx Proxy Manager with Cloudflare Proxy and full SSL"
 date: 2023-06-15T14:24:46+03:00
-tags: ["nginx-proxy-manager","cloudflare"]
+tags: ["nginx-proxy-manager","cloudflare","tutorial"]
 categories: ["sysadmin"]
 draft: false
 #description: "Desc Text."
