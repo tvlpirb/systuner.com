@@ -104,7 +104,7 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
+    # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
@@ -114,6 +114,14 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+      - HTML 
+      - RSS 
+      - JSON
+
+
 menu:
   main:
     - identifier: blog
