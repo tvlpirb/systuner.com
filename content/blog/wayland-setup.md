@@ -53,8 +53,8 @@ If you follow this guide, you should end up with the following basic software:
 - (Optional) Emacs, text editor
 - (Optional) Polkit, some authentication stuff
 
-Here is a demo setup...
-**WIP**
+Here is a demo Setup
+{{<youtube id="1nTyRctW6Pc">}}
 
 I will leave it up to you the reader to fill in the gaps if you would like to replicate the setup above as is. Or you can 
 make your own setup or grab one from [reddit.com](https://reddit.com/r/unixporn). 
