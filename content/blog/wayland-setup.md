@@ -25,12 +25,12 @@ ShowWordCount: true
 ShowCodeCopyButtons: true
 ShowRssButtonInSectionTermList: true
 robotsNoIndex: false
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
+cover:
+    image: "/images/hypr-cat-2.webp" # image path/url
+    alt: "Taster screenshot" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/tvlpirb/systuner.com/content"
     Text: "Suggest Changes" # edit text
