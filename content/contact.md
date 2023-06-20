@@ -7,5 +7,6 @@ You can reach out to me at the following places:
 - Email: [talhah@cmu.edu](mailto:talhah[@]cmu.edu)
 - LinkedIn: [Talhah-Peerbhai](https://linkedin.com/in/talhah-peerbhai)
 - Discord: [talhahh](https://discordapp.com/users/340214223814656032)
+- Instagram: [@spam.talhah](https://instagram.com/spam.talhah)
 
 

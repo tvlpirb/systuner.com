@@ -83,6 +83,8 @@ params:
       url: "https://linkedin.com/talhah-peerbhai"
     - name: ycombinator
       url: "https://news.ycombinator.com/user?id=talhah"
+    - name: youtube
+      url: "https://youtube.com/@talhahp"
     - name: email
       url: "mailto:talhah@cmu.edu"
 
