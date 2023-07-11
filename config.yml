@@ -1,7 +1,7 @@
 baseURL: "https://systuner.com/"
 title: "Talhah Peerbhai"
 paginate: 5
-theme: WonderMod
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
