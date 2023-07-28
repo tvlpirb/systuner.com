@@ -51,9 +51,9 @@ battery lasts me an entire day with ~5 hours screen time, despite QHD+ and 120hz
 enabled.
 
 As for the camera, without doubt this is clearly one of the top android cameras,
-even in 2023 it still holds up really well. The night photography is the most 
+in 2023 it still holds up really well. The night photography is the most 
 impressive thing I've seen on a phone, even compared to the S23 Ultra, Google
-really has outdone itself with their AI. I'm not photographer but here's a couple
+really has outdone itself with their AI. I'm not a good photographer but here's a couple
 shots which I really liked:
 ![Milkyway 1](/images/PXL_20230720_224125496.webp)
 
