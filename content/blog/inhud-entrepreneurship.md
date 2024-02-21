@@ -5,7 +5,7 @@ tags: ["experience","inhud","tech"]
 categories: ["entrepreneurship"]
 draft: false
 #description: "Desc Text."
-#author: "Me"
+author: "Talhah Peerbhai"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -40,7 +40,6 @@ editPost:
 # aliases: ["/first"]
 
 ---
-![Inhud Fall 2023](/images/inhud_fall_2023.webp)
 
 Fall 2023 was rather interesting with the first tech entrepreneurship event 'Inhud' taking place.
 We had to simulate the process of creating a startup and eventually pitched to seasoned investors!

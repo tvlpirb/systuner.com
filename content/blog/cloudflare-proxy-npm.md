@@ -5,7 +5,7 @@ tags: ["nginx-proxy-manager","cloudflare","tutorial"]
 categories: ["sysadmin"]
 draft: false
 #description: "Desc Text."
-#author: "Me"
+author: "Talhah Peerbhai"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

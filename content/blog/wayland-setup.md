@@ -5,7 +5,7 @@ tags: ["setup","tutorial","arch-linux"]
 categories: ["wayland"]
 draft: false
 #description: "Desc Text."
-#author: "Me"
+author: "Talhah Peerbhai"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true

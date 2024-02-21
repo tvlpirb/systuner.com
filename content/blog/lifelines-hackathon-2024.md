@@ -5,9 +5,9 @@ tags: ["hackathon","innovation"]
 categories: ["entrepreneurship"]
 draft: false
 #description: "Desc Text."
-#author: "Me"
+author: "Talhah Peerbhai"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 UseHugoToc: true
 hidemeta: false
@@ -40,11 +40,9 @@ editPost:
 
 ---
 
-![Lifelines Hackathon Team](/images/lifelines-team-24.webp)
-
 I recently participated in my first hackathon, the Lifelines hackathon. A hackathon for creating software that saves lives. My team and I managed to achieve 4th place out of 150+ students from various universities and schools across the country.
 
-![Lifelines](https://www.lifelinescmuq.org/) is a student-led humanitarian innovation platform at CMU-Q that brings together students, educators, and industry experts to build innovative solutions and mitigations to empower those facing humanitarian crises.
+[Lifelines](https://www.lifelinescmuq.org/) is a student-led humanitarian innovation platform at CMU-Q that brings together students, educators, and industry experts to build innovative solutions and mitigations to empower those facing humanitarian crises.
 
 This year we had three different categories: Crisis Management, Health and Education, and lastly Media and Awareness. I'll only cover the Media and Awareness category which was the one I took part in. It can succinctly be described as Creating tools for protecting stable journalism, detecting misinformation, and informing public awareness.
 
@@ -54,14 +52,14 @@ In today's, digital age social media is a highly valuable asset. It is an import
 # The Dynamic Team Behind Immet
 Our team consisted of four people and was a blend of talent, innovation, and entrepreneurial spirit.
 
-- Our backend and networking genius, ![Eric Gao](https://www.linkedin.com/in/jingxiang-gao/). 
-- An experienced business expert, ![Maria Sultana](https://www.linkedin.com/in/maria-sultana-mina-18a4961a4/)
-- A frontend master, ![Lujain Al-Mansoori](https://www.linkedin.com/in/lujain-al-mansoori-149b17243/). 
+- Our backend and networking genius, [Eric Gao](https://www.linkedin.com/in/jingxiang-gao/). 
+- An experienced business expert, [Maria Sultana](https://www.linkedin.com/in/maria-sultana-mina-18a4961a4/)
+- A frontend master, [Lujain Al-Mansoori](https://www.linkedin.com/in/lujain-al-mansoori-149b17243/). 
 - And myself an idea generator who bridges the gap between the business and tech side. 
 
 We're all aspiring entrepreneurs and are currently founding our own companies. Our diverse skill sets and visionary personalities were the main drivers behind our work and success. A huge thanks to the team!
 
-Special thanks to ![Deeksha Singh](https://www.linkedin.com/in/deekshasvs/) and ![Mohammad Annan](https://www.linkedin.com/in/mohammad-annan-49491b233/) for their invaluable guidance and support.
+Special thanks to [Deeksha Singh](https://www.linkedin.com/in/deekshasvs/) and [Mohammad Annan](https://www.linkedin.com/in/mohammad-annan-49491b233/) for their invaluable guidance and support.
 
 # Takeaways
 This hackathon is a milestone on my journey into entrepreneurship and leading a successful startup. It has bolstered my confidence in presenting and pitching. It also provided me with practical insight and knowledge into the risks involved with entrepreneurship and has helped me understand the intricacies of developing a coherent business plan. Overall this experience has profoundly shaped my personal and professional aspirations, and I'm eager to participate in future opportunities to innovate and impact.

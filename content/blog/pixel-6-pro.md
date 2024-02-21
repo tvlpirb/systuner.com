@@ -5,7 +5,7 @@ tags: ["android","pixel","google"]
 categories: ["mobile","opinion"]
 draft: false
 #description: "Desc Text."
-#author: "Me"
+author: "Talhah Peerbhai"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
