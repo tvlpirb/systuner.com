@@ -65,3 +65,10 @@ Special thanks to [Deeksha Singh](https://www.linkedin.com/in/deekshasvs/) and [
 This hackathon is a milestone on my journey into entrepreneurship and leading a successful startup. It has bolstered my confidence in presenting and pitching. It also provided me with practical insight and knowledge into the risks involved with entrepreneurship and has helped me understand the intricacies of developing a coherent business plan. Overall this experience has profoundly shaped my personal and professional aspirations, and I'm eager to participate in future opportunities to innovate and impact.
 
 A huge thanks to the Lifelines Organization and Carnegie Mellon University for making this event a reality and giving us the opportunity to innovate. We look forward to participating next year.
+
+## Some more pictures:
+![Awarding of prize](/images/lifelines-misc-1.webp)
+Awarding of the prize  
+
+![The team stand](/images/lifelines-misc-2.webp)
+Our team stand
