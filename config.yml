@@ -86,7 +86,7 @@ params:
     - name: youtube
       url: "https://youtube.com/@talhahp"
     - name: email
-      url: "mailto:talhah@cmu.edu"
+      url: "mailto:talhah-dev@proton.me"
 
   analytics:
     google:
