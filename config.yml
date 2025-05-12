@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "I'm Talhah Peerbhai. A senior studying computer science at Carnegie Mellon University. I have a strong interest in entrepreneurship, cyber security and system administration. If I'm not nerding out you'll probably find me seeking thrilling adventures. Reach out to me to find out more!"
+    Content: "I'm Talhah Peerbhai. A recent CS graduate from Carnegie Mellon University. I have a strong interest in entrepreneurship, cyber security and system administration. If I'm not nerding out you'll probably find me seeking thrilling adventures. Reach out to me to find out more!"
 
   socialIcons:
     - name: github
